@@ -1,9 +1,11 @@
-# Bu Bot Woizle Tarafından Kodlanmıştır
+# Bu Bot Woizle TarafÄ±ndan KodlanmÄ±ÅŸtÄ±r
 
-# Altyapıyı Sunucunuza Özel Kullanın Para İle Satmayın Görürsem Fena Olur :)
+# AltyapÄ±yÄ± Sunucunuza Ã–zel KullanÄ±n Para Ä°le SatmayÄ±n GÃ¶rÃ¼rsem Fena Olur :)
 
-# İletişim ! ????????????#4728
+# Ä°letiÅŸim ! ????????????#4728
 
 # Discord Sunucum https://discord.gg/xgewEPJ3Tr
 
-***Sunucumuza Gelerek Bize Destek Olabilirsiniz :)***
+***Sunucumuza Gelerek Bize Destek Olabilirsiniz :)
+
+Star AtÄ±n Bea***
