@@ -6,6 +6,6 @@
 
 # Discord Sunucum https://discord.gg/xgewEPJ3Tr
 
-***Sunucumuza Gelerek Bize Destek Olabilirsiniz :)
+***Sunucumuza Gelerek Bize Destek Olabilirsiniz :)***
 
-Star Atın Bea***
+***Star Atın Bea***
