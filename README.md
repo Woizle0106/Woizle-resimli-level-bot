@@ -2,7 +2,7 @@
 
 # Altyapıyı Sunucunuza Özel Kullanın Para İle Satmayın Görürsem Fena Olur :)
 
-# İletişim ! ????????????#4728
+# İletişim `Woizle#4728
 
 # Discord Sunucum https://discord.gg/xgewEPJ3Tr
 
